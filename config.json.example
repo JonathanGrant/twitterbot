@@ -1,0 +1,15 @@
+{
+        "search-queries": ["RT to win", "Retweet and win"],
+        "follow-keywords": [" follow ", " follower "],
+        "fav-keywords": [" fav ", " favorite "],
+        "scan-update-time": 1800,
+        "retweet-update-time": 20,
+        "rate-limit-update-time": 10,
+        "min-ratelimit":10,
+        "min-ratelimit-retweet":20,
+        "min-ratelimit-search":40,
+	"consumer-key": "bKcs17Mj98I1TXOnJkF7F8Eg2"
+	"consumer-secret": "PSkYNJC0jSDj4IyfXAHhhuWC73nXXL2h4HntSrI6NzI11gG46X",
+	"access-token-key": "4543232432-CcbI9mwluTVPnF5PYH7U0Uxd2lkaddehzE32qAw",
+	"access-token-secret": "hjQ2JZDnB3rKpcEwViGZyeNIXchptiZHCR5cIIoXALqWK"
+}
